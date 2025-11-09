@@ -97,13 +97,5 @@ It automates the process of discovering trending topics in the AI Automation nic
 ---
 
 ## Author Details
-**Name:** Anomitro Sarker  
-**Institution:** [Your College/University Name]  
-**Course:** AI Automation / Workflow Systems  
+**Name:** Anomitro Sarker
 **Date:** November 8, 2025  
-
----
-
-## License
-This repository is created for academic use only.  
-© 2025 Anomitro Sarker. All Rights Reserved.
