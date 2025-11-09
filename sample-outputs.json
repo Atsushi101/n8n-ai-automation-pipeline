@@ -1,0 +1,10 @@
+{
+  "sample_row": {
+    "timestamp": "2025-11-08T09:15:24+05:30",
+    "topic": "automate ai workflows",
+    "prompt": "3 Ways to Automate Model Retraining",
+    "blog_excerpt": "In this article we describe three practical ways to automate model retraining...",
+    "video_link": "https://storage.googleapis.com/veo-output/abcd.mp4",
+    "status": "Pending Review"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "name": "AI-Automation-MultiAgent-Pipeline",
+  "nodes": [
+    {
+      "name": "Schedule Trigger",
+      "type": "n8n-nodes-base.cron"
+    },
+    {
+      "name": "Google Trends HTTP",
+      "type": "n8n-nodes-base.httpRequest"
+    },
+    {
+      "name": "YouTube Search HTTP",
+      "type": "n8n-nodes-base.httpRequest"
+    },
+    {
+      "name": "Prompt Agent (OpenAI)",
+      "type": "n8n-nodes-base.openai"
+    },
+    {
+      "name": "Blog Creator (OpenAI)",
+      "type": "n8n-nodes-base.openai"
+    },
+    {
+      "name": "VEO Video API",
+      "type": "n8n-nodes-base.httpRequest"
+    },
+    {
+      "name": "Append To Google Sheet",
+      "type": "n8n-nodes-base.googleSheets"
+    },
+    {
+      "name": "Notify Slack",
+      "type": "n8n-nodes-base.httpRequest"
+    }
+  ]
+}
